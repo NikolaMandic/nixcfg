@@ -1,0 +1,1 @@
+ nix-env -p /nix/var/nix/profiles/per-user/root/homeEnv -i homeEnv
